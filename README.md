@@ -2,7 +2,8 @@
 
 A Flutter Glitch Clock Face
 
-See a [live demo]() with Flutter for web!
+See a [live demo](https://natreve.github.io/) with Flutter for web!
 
 Example [Digital Clock](digital_clock)
+
 <img src='clock.png' width='350'>
